@@ -1,9 +1,8 @@
 <header>
-  <img src="https://github.com/user-attachments/assets/d46338c4-86e3-467f-b5bc-55542df03328" alt="Centered Image" style="display: block; margin: auto;" width="8192" height="4096" />
+  <img src="https://github.com/user-attachments/assets/671ab9f4-0e95-48eb-b8f9-e109e25a7fbc" alt="Centered Image" style="display: block; margin: auto;" width="8192" height="4096" />
 </header>
 
 
-<article>
   <header>
     <hgroup>
       <h1 align="center">William Youkna</h1>
