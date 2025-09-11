@@ -1,3 +1,6 @@
+
+<img src="https://github.com/user-attachments/assets/b47e6ebb-33df-4343-8eaa-c95774c136ca" Wwidth="4096" />
+
 <article>
   <header>
     <hgroup>
