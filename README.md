@@ -1,6 +1,7 @@
 <header>
-  <img src="https://github.com/user-attachments/assets/879addd2-475c-4947-b04a-0309bf1bdf83" alt="Centered Image" style="display: block; margin: auto;" width="4096" height="1024"/>
+  <img src="https://github.com/user-attachments/assets/d46338c4-86e3-467f-b5bc-55542df03328" alt="Centered Image" style="display: block; margin: auto;" width="8192" height="4096" />
 </header>
+
 
 <article>
   <header>
