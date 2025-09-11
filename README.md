@@ -35,6 +35,14 @@
       <a href="https://www.linkedin.com/in/william-youkna-b8a55a165/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" /></a>
     </div>
   </section>
+
+  <section>
+    <h2>My GitHub stats</h2>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=BlkMambaGod&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlkMambaGod&theme=radical" />
+    </div>
+  </section>
 </article>
 
 <!---
