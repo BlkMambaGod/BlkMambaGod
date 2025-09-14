@@ -40,7 +40,7 @@
     <h2>My GitHub stats</h2>
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=BlkMambaGod&show_icons=true&theme=radical" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlkMambaGod&theme=radical" />
+      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=BlkMambaGod&theme=radical&cache_seconds=1800" />
     </div>
   </section>
 </article>
