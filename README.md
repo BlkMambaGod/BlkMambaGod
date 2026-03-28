@@ -65,7 +65,4 @@ I’m open to collaborating on:
 ---
 
 ## 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BlkMambaGod&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BlkMambaGod&theme=radical&layout=compact" />
-</p>
+[![BlkMambaGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlkMambaGod)](https://github.com/BlkMambaGod/github-readme-stats)
