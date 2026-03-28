@@ -65,5 +65,7 @@ I’m open to collaborating on:
 ---
 
 ## 📊 GitHub Stats
-<img src="profile/stats.svg" />
-<img src="profile/top-langs.svg" />
+<p align="center">
+  <img src="profile/stats.svg" height="180em" />
+  <img src="profile/top-langs.svg" />
+</p>
