@@ -65,4 +65,4 @@ I’m open to collaborating on:
 ---
 
 ## 📊 GitHub Stats
-[![BlkMambaGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlkMambaGod)](https://github.com/BlkMambaGod/github-readme-stats)
+![Stats](./profile/stats.svg)
