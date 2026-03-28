@@ -65,4 +65,5 @@ I’m open to collaborating on:
 ---
 
 ## 📊 GitHub Stats
-![Stats](./profile/stats.svg)
+<img src="profile/stats.svg" />
+<img src="profile/top-langs.svg" />
